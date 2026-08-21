@@ -96,4 +96,3 @@ The analysis identifies top-performing products, important trends, customer patt
 
 6. Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/ayushmahra18-cell/Customer-Data-Analysis/blob/main/Screenshot%202026-08-21%20162622%20Dashboard%202026.png)
-Example: ![Dashboard Preview](https://github.com/ayushmahra18-cell/Customer-Data-Analysis/blob/main/Screenshot%202026-08-21%20162622%20Dashboard%202026.png)
